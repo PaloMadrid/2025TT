@@ -6,9 +6,13 @@ namespace WinFormsApp1
         public Form1()
         {
             InitializeComponent();
+
+            //esto sirve para usar WASD de controles pero no las flechas del teclado
             this.KeyPreview = true;
             this.ActiveControl = null;
 
+
+            //a estas no les encontre utilidad
             //btnArriba.TabStop = false;
             //btnAbajo.TabStop = false;
             //btnIzquierda.TabStop = false;
@@ -72,8 +76,8 @@ namespace WinFormsApp1
             MoverPersonaje("Izquierda");
         }
 
-  
 
+        //ProcessCmdKey es un metodo para interceptar y manejar mensajes de teclado antes de que lleguen a los controles individuales. debemos aplicar polimorfismo para darle otra funcion a las teclas de direccion
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {
             switch (keyData)

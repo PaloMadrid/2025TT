@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Paloma\\programacionTT\\cuenta_bancaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|D:\\Paloma\\programacionTT\\cuenta_bancaria\\testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|D:\\Paloma\\programacionTT\\cuenta_bancaria\\testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|d:\\paloma\\programaciontt\\cuenta_bancaria\\testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|d:\\paloma\\programaciontt\\cuenta_bancaria\\testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 8,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Paloma\\programacionTT\\cuenta_bancaria\\testeoCB\\Program.cs",
               "RelativeDocumentMoniker": "testeoCB\\Program.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CuentaBancaria.cs",
               "DocumentMoniker": "D:\\Paloma\\programacionTT\\cuenta_bancaria\\testeoCB\\CuentaBancaria.cs",
               "RelativeDocumentMoniker": "testeoCB\\CuentaBancaria.cs",

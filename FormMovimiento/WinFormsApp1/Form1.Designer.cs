@@ -97,7 +97,7 @@
             Controls.Add(btnArriba);
             Name = "Form1";
             Text = "Form1";
-            KeyDown += Form1_KeyDown;
+            KeyDown += Form1_KeyDown_1;
             ResumeLayout(false);
             PerformLayout();
         }
