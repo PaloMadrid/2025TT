@@ -1,0 +1,14 @@
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\bin\Debug\net8.0\testeoCB.exe
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\bin\Debug\net8.0\testeoCB.deps.json
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\bin\Debug\net8.0\testeoCB.runtimeconfig.json
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\bin\Debug\net8.0\testeoCB.dll
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\bin\Debug\net8.0\testeoCB.pdb
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.AssemblyInfoInputs.cache
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.AssemblyInfo.cs
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.dll
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\refint\testeoCB.dll
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.pdb
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\testeoCB.genruntimeconfig.cache
+C:\Users\Mauro\source\repos\cuenta_bancaria\testeoCB\obj\Debug\net8.0\ref\testeoCB.dll

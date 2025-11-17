@@ -1,0 +1,14 @@
+D:\Paloma\programacionTT\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.exe
+D:\Paloma\programacionTT\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+D:\Paloma\programacionTT\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.runtimeconfig.json
+D:\Paloma\programacionTT\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.dll
+D:\Paloma\programacionTT\Excepciones\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.dll
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\Excepciones.genruntimeconfig.cache
+D:\Paloma\programacionTT\Excepciones\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll

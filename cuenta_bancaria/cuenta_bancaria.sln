@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeoCB", "testeoCB\testeoCB.csproj", "{D320463C-629B-4C40-91B1-68D121E9C05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuentaBancaria", "CuentaBancaria\CuentaBancaria.csproj", "{830ED6F7-6AE7-4734-A616-DB8DD292E4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D320463C-629B-4C40-91B1-68D121E9C05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D320463C-629B-4C40-91B1-68D121E9C05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D320463C-629B-4C40-91B1-68D121E9C05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D320463C-629B-4C40-91B1-68D121E9C05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830ED6F7-6AE7-4734-A616-DB8DD292E4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830ED6F7-6AE7-4734-A616-DB8DD292E4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830ED6F7-6AE7-4734-A616-DB8DD292E4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830ED6F7-6AE7-4734-A616-DB8DD292E4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725FE726-6C47-4812-864C-7D5B99A784F2}
+	EndGlobalSection
+EndGlobal

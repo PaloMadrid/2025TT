@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\source\\repos\\cuenta_bancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|c:\\users\\mauro\\source\\repos\\cuenta_bancaria\\testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|c:\\users\\mauro\\source\\repos\\cuenta_bancaria\\testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D320463C-629B-4C40-91B1-68D121E9C05B}|testeoCB\\testeoCB.csproj|solutionrelative:testeocb\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\source\\repos\\cuenta_bancaria\\testeoCB\\Program.cs",
+              "RelativeDocumentMoniker": "testeoCB\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\source\\repos\\cuenta_bancaria\\testeoCB\\Program.cs*",
+              "RelativeToolTip": "testeoCB\\Program.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:45:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\source\\repos\\cuenta_bancaria\\testeoCB\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "testeoCB\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\Mauro\\source\\repos\\cuenta_bancaria\\testeoCB\\CuentaBancaria.cs",
+              "RelativeToolTip": "testeoCB\\CuentaBancaria.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:32:50.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

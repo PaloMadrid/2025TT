@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Paloma\\programacionTT\\Empleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{225839D4-E573-4708-8FE1-823FD925484E}|Testeo\\Testeo.csproj|d:\\paloma\\programaciontt\\empleado\\testeo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225839D4-E573-4708-8FE1-823FD925484E}|Testeo\\Testeo.csproj|solutionrelative:testeo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|d:\\paloma\\programaciontt\\empleado\\empleado\\trabajadorporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|solutionrelative:empleado\\trabajadorporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|d:\\paloma\\programaciontt\\empleado\\empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|solutionrelative:empleado\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|d:\\paloma\\programaciontt\\empleado\\empleado\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBAA91C-C2BF-4AE8-8CF8-D160202BF494}|Empleado\\Empleado.csproj|solutionrelative:empleado\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\Vendedor.cs",
+              "RelativeDocumentMoniker": "Empleado\\Vendedor.cs",
+              "ToolTip": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\Vendedor.cs",
+              "RelativeToolTip": "Empleado\\Vendedor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:42:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrabajadorPorHora.cs",
+              "DocumentMoniker": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\TrabajadorPorHora.cs",
+              "RelativeDocumentMoniker": "Empleado\\TrabajadorPorHora.cs",
+              "ToolTip": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\TrabajadorPorHora.cs",
+              "RelativeToolTip": "Empleado\\TrabajadorPorHora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwA0AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:34:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Paloma\\programacionTT\\Empleado\\Testeo\\Program.cs",
+              "RelativeDocumentMoniker": "Testeo\\Program.cs",
+              "ToolTip": "D:\\Paloma\\programacionTT\\Empleado\\Testeo\\Program.cs",
+              "RelativeToolTip": "Testeo\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:23:31.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado\\Empleado.cs",
+              "ToolTip": "D:\\Paloma\\programacionTT\\Empleado\\Empleado\\Empleado.cs",
+              "RelativeToolTip": "Empleado\\Empleado.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:15:47.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

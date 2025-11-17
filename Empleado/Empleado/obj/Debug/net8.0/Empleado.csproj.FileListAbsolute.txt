@@ -1,0 +1,11 @@
+D:\Paloma\programacionTT\Empleado\Empleado\bin\Debug\net8.0\Empleado.deps.json
+D:\Paloma\programacionTT\Empleado\Empleado\bin\Debug\net8.0\Empleado.dll
+D:\Paloma\programacionTT\Empleado\Empleado\bin\Debug\net8.0\Empleado.pdb
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.AssemblyInfoInputs.cache
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.AssemblyInfo.cs
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.csproj.CoreCompileInputs.cache
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.dll
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\refint\Empleado.dll
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\Empleado.pdb
+D:\Paloma\programacionTT\Empleado\Empleado\obj\Debug\net8.0\ref\Empleado.dll

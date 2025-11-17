@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Testeo/1.0.0": {
+        "dependencies": {
+          "Empleado": "1.0.0"
+        },
+        "runtime": {
+          "Testeo.dll": {}
+        }
+      },
+      "Empleado/1.0.0": {
+        "runtime": {
+          "Empleado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
